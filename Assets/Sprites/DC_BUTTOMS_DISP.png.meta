@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 5fb0b30dabac0084d957c99a203b9199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4606863976480639052
+    second: DC_BUTTOMS_DISP_0
+  - first:
+      213: 1097594788541559786
+    second: DC_BUTTOMS_DISP_1
+  - first:
+      213: -3826124411844555796
+    second: DC_BUTTOMS_DISP_2
+  - first:
+      213: 5869870211698928936
+    second: DC_BUTTOMS_DISP_3
+  - first:
+      213: -4624003597702259122
+    second: DC_BUTTOMS_DISP_4
+  - first:
+      213: 3830664958308336219
+    second: DC_BUTTOMS_DISP_5
+  - first:
+      213: 151789411914442204
+    second: DC_BUTTOMS_DISP_6
+  - first:
+      213: 137450983334234164
+    second: DC_BUTTOMS_DISP_7
+  - first:
+      213: -2089487720070846632
+    second: DC_BUTTOMS_DISP_8
+  - first:
+      213: -4337458780944211035
+    second: DC_BUTTOMS_DISP_9
+  - first:
+      213: -6724229333116630901
+    second: DC_BUTTOMS_DISP_10
+  - first:
+      213: -690944561470855105
+    second: DC_BUTTOMS_DISP_11
+  - first:
+      213: -6613945779582691221
+    second: DC_BUTTOMS_DISP_12
+  - first:
+      213: 3628622649739613679
+    second: DC_BUTTOMS_DISP_13
+  - first:
+      213: 3081905632611430778
+    second: DC_BUTTOMS_DISP_14
+  - first:
+      213: -201293743560257649
+    second: DC_BUTTOMS_DISP_15
+  - first:
+      213: 8456401087820197842
+    second: DC_BUTTOMS_DISP_16
+  - first:
+      213: -3562616156282528270
+    second: DC_BUTTOMS_DISP_17
+  - first:
+      213: 8566557531085375644
+    second: DC_BUTTOMS_DISP_18
+  - first:
+      213: -1836294039146459380
+    second: DC_BUTTOMS_DISP_19
+  - first:
+      213: 6003660771463529131
+    second: DC_BUTTOMS_DISP_20
+  - first:
+      213: 5026023976504380288
+    second: DC_BUTTOMS_DISP_21
+  - first:
+      213: 7861484621144723734
+    second: DC_BUTTOMS_DISP_22
+  - first:
+      213: 2980472726781503182
+    second: DC_BUTTOMS_DISP_23
+  - first:
+      213: -6599187479171181054
+    second: DC_BUTTOMS_DISP_24
+  - first:
+      213: 6883341225909378170
+    second: DC_BUTTOMS_DISP_25
+  - first:
+      213: 4743476796894089971
+    second: DC_BUTTOMS_DISP_26
+  - first:
+      213: 4097820212321245761
+    second: DC_BUTTOMS_DISP_27
+  - first:
+      213: 1220913543551572225
+    second: DC_BUTTOMS_DISP_28
+  - first:
+      213: 1047729996966010272
+    second: DC_BUTTOMS_DISP_29
+  - first:
+      213: 145967886905882217
+    second: DC_BUTTOMS_DISP_30
+  - first:
+      213: -5819613314884248895
+    second: DC_BUTTOMS_DISP_31
+  - first:
+      213: 1077237374195256187
+    second: DC_BUTTOMS_DISP_32
+  - first:
+      213: 8872351307950467731
+    second: DC_BUTTOMS_DISP_33
+  - first:
+      213: 6663076551118904427
+    second: DC_BUTTOMS_DISP_34
+  - first:
+      213: 5061271330534890003
+    second: DC_BUTTOMS_DISP_35
+  - first:
+      213: -540249358564167226
+    second: DC_BUTTOMS_DISP_36
+  - first:
+      213: -947679021914145821
+    second: DC_BUTTOMS_DISP_37
+  - first:
+      213: -3427751666175195812
+    second: DC_BUTTOMS_DISP_38
+  - first:
+      213: 8987222378375439495
+    second: DC_BUTTOMS_DISP_39
+  - first:
+      213: -1943340625655325956
+    second: DC_BUTTOMS_DISP_40
+  - first:
+      213: -4230894931156787130
+    second: DC_BUTTOMS_DISP_41
+  - first:
+      213: 5109279811461197077
+    second: DC_BUTTOMS_DISP_42
+  - first:
+      213: -5483001565429817162
+    second: DC_BUTTOMS_DISP_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 734
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc8948329a78c4294594f758816946
+      internalID: 4606863976480639052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1171
+        width: 737
+        height: 989
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efbc0bf5281a5a4ea98e983ec68cba9
+      internalID: 1097594788541559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_2
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1603
+        width: 399
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598520dc57b81a84c89ab40dd3053f8f
+      internalID: -3826124411844555796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_3
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1488
+        width: 156
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6218f13ba3634514a9bb964b36532515
+      internalID: 5869870211698928936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_4
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1649
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf9d61f876d19048ae9169ede159402
+      internalID: -4624003597702259122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_5
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1819
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9967b47bb41944b8703bbc8fed4d7
+      internalID: 3830664958308336219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_6
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1987
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635f6d9d06492947b9105078b8a28e9
+      internalID: 151789411914442204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 617
+        width: 400
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304481c554ebac4997c8bef3af910e1
+      internalID: 137450983334234164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 726
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 105, y: 105, z: 105, w: 105}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e45b1b2651411049bea67f2c03a1237
+      internalID: -2089487720070846632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 483
+        width: 212
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8190287cb0029742a4c555b1dd366e1
+      internalID: -4337458780944211035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 453
+        width: 346
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 80, z: 80, w: 80}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a6a00bf1d4534e9045df078acc17a
+      internalID: -6724229333116630901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 808
+        width: 345
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 80, z: 80, w: 80}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde434626f720814398444b0dd18eb83
+      internalID: -690944561470855105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_12
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 875
+        width: 216
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295e3b374602a94ca0ef27eb44e646f
+      internalID: -6613945779582691221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_13
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 586
+        width: 264
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fbed3c6a538aa48af1ee28b9d9ab00
+      internalID: 3628622649739613679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_14
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 762
+        width: 279
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778bfaaea6281a3499607e6c7f50bda7
+      internalID: 3081905632611430778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_15
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 623
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21db7f648499f42469f93e1c81bdc7d7
+      internalID: -201293743560257649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_16
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 631
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b17f848cd9f043b549071288551fc
+      internalID: 8456401087820197842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_17
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 615
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9569bd0b3343e43a6f46fe2b390f23
+      internalID: -3562616156282528270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_18
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 630
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3280ea22aaca6c141ba40b294e7bb1fb
+      internalID: 8566557531085375644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_19
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 687
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0cd66033b5df1498ad12903a5d86d7
+      internalID: -1836294039146459380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_20
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 761
+        width: 280
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef2b0e32808ec44a44826cbce88c19
+      internalID: 6003660771463529131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_21
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 859
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b604c7ff2e5584a8240d986af33429
+      internalID: 5026023976504380288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_22
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 892
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 18, z: 20, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a3ec553cff6e4ca85a66922cc88f1
+      internalID: 7861484621144723734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_23
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 860
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 14, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b6326b422042469720774a171f202
+      internalID: 2980472726781503182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_24
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 862
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7effde9930eca4f9a84e5d2c6f6db6
+      internalID: -6599187479171181054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_25
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 864
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc2f60e2e137b4b90b1f295f184713
+      internalID: 6883341225909378170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_26
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 946
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b109d9dc9f19074db7dcd4ae2e468d7
+      internalID: 4743476796894089971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_27
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 970
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77542b77891b45b4a9e1bf113f25a6fb
+      internalID: 4097820212321245761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_28
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 970
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc57ccafc5521944bec2db6dbf7fee0
+      internalID: 1220913543551572225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_29
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 965
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636018135588093488e307c0be0f2111
+      internalID: 1047729996966010272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_30
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1056
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8287f1e6f52f36147be2219ee7c63134
+      internalID: 145967886905882217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_31
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1200
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6b93d7d3b447d4ab9436536c08bb6f
+      internalID: -5819613314884248895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_32
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1048
+        width: 87
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f2437346be3fb45940000358b638db
+      internalID: 1077237374195256187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_33
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1054
+        width: 73
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec83903f6d044e4ab62e57d38bfc8ba
+      internalID: 8872351307950467731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_34
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1057
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f709c19984826c14287b8961d795a45a
+      internalID: 6663076551118904427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_35
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1164
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34daa998300b040aecf9dd592d0693
+      internalID: 5061271330534890003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_36
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1211
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5edaf496c219943b3e3e214e3d9ef6
+      internalID: -540249358564167226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_37
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1210
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0c3a35b7cbb4419c51f223201658b
+      internalID: -947679021914145821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_38
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1331
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8326e5f565889054b8516026e12e75d6
+      internalID: -3427751666175195812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_39
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1465
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d29c01dcf6b841805a88bc9651ace
+      internalID: 8987222378375439495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_40
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1334
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e725f7983f2e74a9d3335aec91aa38
+      internalID: -1943340625655325956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_41
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1357
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b296b311702ca43b9901f3e557b3cd
+      internalID: -4230894931156787130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_42
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1228
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382ac62d4900e14cbf0746b14ac339b
+      internalID: 5109279811461197077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DC_BUTTOMS_DISP_43
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1092
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad417f35c49345a49b515ba1a0ef7ab1
+      internalID: -5483001565429817162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

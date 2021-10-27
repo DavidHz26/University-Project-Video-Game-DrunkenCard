@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 6072031d6ad1d5047b877c85a246dde1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fugaz_1
+  - first:
+      213: 21300002
+    second: Fugaz_2
+  - first:
+      213: 21300004
+    second: Fugaz_3
+  - first:
+      213: 21300006
+    second: Fugaz_4
+  - first:
+      213: 21300008
+    second: Fugaz_5
+  - first:
+      213: 21300010
+    second: Fugaz_6
+  - first:
+      213: 21300012
+    second: Fugaz_7
+  - first:
+      213: 21300014
+    second: Fugaz_8
+  - first:
+      213: 21300016
+    second: Fugaz_9
+  - first:
+      213: 21300018
+    second: Fugaz_10
+  - first:
+      213: 21300020
+    second: Fugaz_11
+  - first:
+      213: 21300022
+    second: Fugaz_12
+  - first:
+      213: 21300024
+    second: Fugaz_13
+  - first:
+      213: 21300026
+    second: Fugaz_14
+  - first:
+      213: 21300028
+    second: Fugaz_15_A
+  - first:
+      213: 21300030
+    second: Fugaz_15_B
+  - first:
+      213: 21300032
+    second: Fugaz_16
+  - first:
+      213: 21300034
+    second: Fugaz_17
+  - first:
+      213: 21300036
+    second: Fugaz_18-22
+  - first:
+      213: 21300038
+    second: Fugaz_23
+  - first:
+      213: 21300040
+    second: Fugaz_24
+  - first:
+      213: 21300042
+    second: Fugaz_25
+  - first:
+      213: 21300044
+    second: Proteccion_1
+  - first:
+      213: 21300046
+    second: Proteccion_2
+  - first:
+      213: 21300048
+    second: Proteccion_3
+  - first:
+      213: 21300050
+    second: Proteccion_4
+  - first:
+      213: 21300052
+    second: Proteccion_5
+  - first:
+      213: 21300054
+    second: Proteccion_6
+  - first:
+      213: 21300056
+    second: Proteccion_7
+  - first:
+      213: 21300058
+    second: Proteccion_8
+  - first:
+      213: 21300060
+    second: Proteccion_9
+  - first:
+      213: 21300062
+    second: Proteccion_10
+  - first:
+      213: 5776112809814122697
+    second: Fugaz_21
+  - first:
+      213: 4503056842249539891
+    second: Fugaz_19
+  - first:
+      213: -656651221555618465
+    second: Fugaz_20
+  - first:
+      213: -4737544789818138100
+    second: Fugaz_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fugaz_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2685
+        width: 664
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0df4c5dce8a4f4ca923c580ebab705
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2785
+        width: 662
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c749485b3f7333646ae534514d045e27
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2809
+        width: 704
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8e0e20fc04f849807b85178a9d7a7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_4
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2730
+        width: 686
+        height: 767
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438b5965a1c01548a3c9bba47d94132
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_5
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 2769
+        width: 675
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bec3f73e968fad4ab0f162f71835877
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_6
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2826
+        width: 712
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e864ad5ab7fb0046af5766da318f8e5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_7
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 2687
+        width: 640
+        height: 846
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c663ddce3a2d40a64988b37aaca28
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_8
+      rect:
+        serializedVersion: 2
+        x: 4782
+        y: 2687
+        width: 656
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17ff11ab584d9b41b06331aed0c3846
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_9
+      rect:
+        serializedVersion: 2
+        x: 5467
+        y: 2666
+        width: 648
+        height: 884
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719f0be88bf7254fae87ffbd132a75e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_10
+      rect:
+        serializedVersion: 2
+        x: 6148
+        y: 2779
+        width: 662
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d5d850aec94f469d811efbfefd6f2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1866
+        width: 653
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dde9981e7bfdbc44bab8f8d81398255
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1962
+        width: 687
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d49c73edf15ae4eb65be3096309021
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_13
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 2056
+        width: 691
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d45e321d0e9f48a165817c538dbed
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_14
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1881
+        width: 664
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d787e603894b0d14e96efdd5d7aab57a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_15_A
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1911
+        width: 689
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c79eca4beea574e9b743efb024cf07
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_15_B
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 1820
+        width: 675
+        height: 827
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914dd9ebd1acd2641a3ae1721d33754e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_16
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 1968
+        width: 713
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5475cb11a215b943bed4cacfe8ff91e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_17
+      rect:
+        serializedVersion: 2
+        x: 4795
+        y: 2010
+        width: 678
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf3e1a95cbbac9448551712001c4b3c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_18-22
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 1823
+        width: 652
+        height: 818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995fd50eb1139d444b53a686e58eb389
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_23
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 1843
+        width: 663
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219dd1addfc48f4f84c936193a4eed9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 681
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c471fd997d11e041abe1de1dff75819
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_25
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 915
+        width: 673
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3999b5c3ba114c93011e1ef58708a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 667
+        height: 709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c171ef5718324e8edd436d2d68ddf
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 39
+        width: 668
+        height: 784
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336e9a8ce9e23742bf40abca9311185
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 71
+        width: 671
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc93ba455df2654a907af3c5a5276d6
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_4
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 73
+        width: 670
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e64150fb590cba4192b9d0c9272a5cf
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_5
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2
+        width: 477
+        height: 876
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f66a7e865283d46b2161a0c7459c94
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_6
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 2
+        width: 656
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a181e38c6cc7a4ebfb3db9bd13eeb9
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_7
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 68
+        width: 664
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d524832cf73bf469f87aa10b497282
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_8
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 11
+        width: 665
+        height: 842
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a154cfb4c018864fb4474728ac01a4f
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_9
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 2
+        width: 670
+        height: 841
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e52801b396d541aa7b11abda9dc93
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proteccion_10
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 64
+        width: 671
+        height: 711
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f502a2c910d68534188ab7e7fe764195
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_21
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 1817
+        width: 660
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb87cda44056834c8582c65e168aa42
+      internalID: 5776112809814122697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_19
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 1809
+        width: 652
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550e160cb31de143b2e7d98ebf62ac4
+      internalID: 4503056842249539891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_20
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 1801
+        width: 656
+        height: 827
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5b3264859925e46aacb966a1aa9466
+      internalID: -656651221555618465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fugaz_22
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 1801
+        width: 656
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafc0dfa0d2aef4cbd007a96cbfb134
+      internalID: -4737544789818138100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 206b0ba1569bfe3479fe42f5e9fc65cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
